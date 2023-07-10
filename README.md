@@ -1,2 +1,4 @@
-# shared_utils
-visualize utils and other common scripts (eg. generate 3D sprial path)
+# Shared_utils
+Visualize utils and other common scripts 
+
+## 1. Visualize 3D pose using matplotlib
